@@ -1,0 +1,37 @@
+body {
+    background-color: lightseagreen;
+}
+
+.principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.janela {
+    display: flex;
+    background-color: lightcoral;
+    padding: 10px 0px 0px 30px;
+    height: 500px;
+    width: 600px;
+}
+.barra{
+    display: flex;
+    background-color: white;
+    height: 70px;
+    width: 100%;
+}
+
+.barra1{
+    background-color: teal;
+    width: 0%;
+
+}
+.botoes{
+    padding: 20px;
+    width: 500px;
+}
+.botao1{
+    width: 100px;
+}
